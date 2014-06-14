@@ -1,13 +1,13 @@
 <?php
 /********************************************************************************************
 *                                                                                           *
-*	SHIFT CIPHER                                                                              *
-*		# ASCII CHARS HEX                                                                       *
-*	                                                                                          *
+*	SHIFT CIPHER                                                                        *
+*		# ASCII CHARS HEX                                                           *
+*	                                                                                    *
 *   ENSI SECURITY CLUB  12 juin 2014 - 02:41                                                *
 *                                                                                           *
-*	@author Med Amine Ben Asker [YuriLz]- mail : ben[dot]asker[dot]amine[at]gmail[dot]com     *
-*	                                                                                          *
+*    @author Med Amine Ben Asker [YuriLz]- mail : ben[dot]asker[dot]amine[at]gmail[dot]com  *
+*	                                                                                    *
 ********************************************************************************************/
 
 function shift_ascii( $char, $arg_shift )
