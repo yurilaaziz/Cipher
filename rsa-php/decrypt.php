@@ -1,6 +1,6 @@
 <?php
 
-function load_privatekey($privatekey_filename){
+function load_private_key($privatekey_filename){
 
 $privatekey_file = fopen($privatekey_filename, "r");
 if (!$privatekey_file)
